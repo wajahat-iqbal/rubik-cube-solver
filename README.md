@@ -2,7 +2,7 @@
 Codes Solve Rubics Cube 3by3by3 In cpp By algorithm 
 USER INSTRUCTIONS 
 
-Step 1) Read the Instrution how you can mape the Faces and color to be enter after running the code
+Step 1) Read the Instrution how you can maps the phases and colors to be enter after running the code
 Step 2) Than Select 1 to genrate a rendom cube 2 to enter your cube 
 Setp 3) Than Enter -1d,-2d,-3d,-4d,-5d,-6d,-7d,-8d,-9d,
          At every step solve your cube step by step 
@@ -35,12 +35,6 @@ Hold cube as the white center phase is in
    Than Green 
    Than Blue 
    Than Yellow 
-
-If any difficulties 
-contect me 
-www.facebook.com/wajahatiqbalwaji
-wajahatiqbalwaji@gmail.com
-+923085136272
 
 
 
